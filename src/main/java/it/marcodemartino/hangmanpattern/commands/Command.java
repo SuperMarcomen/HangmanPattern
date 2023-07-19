@@ -1,4 +1,4 @@
-package it.marcodemartino.hangmanpattern;
+package it.marcodemartino.hangmanpattern.commands;
 
 public interface Command {
 
